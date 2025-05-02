@@ -7,8 +7,6 @@
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
-
 /**
  * @author d98762625 [d98762625@gmail.com]
  * @copyright Crown Copyright 2019
@@ -18,12 +16,6 @@
 /**
  * @author n1474335 [n1474335@gmail.com]
  * @author Matt C [matt@artemisbot.uk]
- * @copyright Crown Copyright 2016
- * @license Apache-2.0
- */
-
-/**
- * @author n1474335 [n1474335@gmail.com]
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
  */
@@ -57,10 +49,10 @@
 /**
  * CyberChef - The Cyber Swiss Army Knife
  *
- * @copyright Crown Copyright 2016-2024
+ * @copyright Crown Copyright 2016
  * @license Apache-2.0
  *
- *   Copyright 2016-2024 Crown Copyright
+ *   Copyright 2016 Crown Copyright
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -86,9 +78,6 @@
 /**
  * Emulation of Colossus.
  *
- * Tested against the Colossus Rebuild at Bletchley Park's TNMOC
- * using a variety of inputs and settings to confirm correctness.
- *
  * @author VirtualColossus [martin@virtualcolossus.co.uk]
  * @copyright Crown Copyright 2019
  * @license Apache-2.0
@@ -105,9 +94,6 @@
 
 /**
  * Emulation of the Bombe machine.
- *
- * Tested against the Bombe Rebuild at Bletchley Park's TNMOC
- * using a variety of inputs and settings to confirm correctness.
  *
  * @author s2224834
  * @copyright Crown Copyright 2019
@@ -132,40 +118,10 @@
  */
 
 /**
- * Emulation of the Enigma machine.
- *
- * Tested against various genuine Enigma machines using a variety of inputs
- * and settings to confirm correctness.
- *
- * @author s2224834
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
-/**
  * Emulation of the Lorenz SZ40/42a/42b cipher attachment.
- *
- * Tested against the Colossus Rebuild at Bletchley Park's TNMOC
- * using a variety of inputs and settings to confirm correctness.
  *
  * @author VirtualColossus [martin@virtualcolossus.co.uk]
  * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
-/**
- * Emulation of the SIGABA machine
- *
- * @author hettysymes
- * @copyright hettysymes 2020
- * @license Apache-2.0
- */
-
-/**
- * Emulation of the SIGABA machine.
- *
- * @author hettysymes
- * @copyright hettysymes 2020
  * @license Apache-2.0
  */
 
@@ -180,9 +136,6 @@
 
 /**
  * Emulation of the Typex machine.
- *
- * Tested against a genuine Typex machine using a variety of inputs
- * and settings to confirm correctness.
  *
  * @author s2224834
  * @copyright Crown Copyright 2019
@@ -213,14 +166,4 @@
  * @author VirtualColossus [martin@virtualcolossus.co.uk]
  * @copyright Crown Copyright 2019
  * @license Apache-2.0
- */
-
-/**
- * Stream class for parsing binary protocols.
- *
- * @author n1474335 [n1474335@gmail.com]
- * @author tlwr [toby@toby.codes]
- * @copyright Crown Copyright 2018
- * @license Apache-2.0
- *
  */

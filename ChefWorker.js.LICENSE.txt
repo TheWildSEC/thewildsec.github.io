@@ -5,17 +5,7 @@
  * @license  MIT
  */
 
-/*!
- * urlsafe-base64
- */
-
-/*! cptable.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/*! cputils.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
@@ -81,13 +71,6 @@
 /**
  * @author Dachande663 [dachande663@gmail.com]
  * @copyright Crown Copyright 2018
- * @license Apache-2.0
- */
-
-/**
- * @author Daniel Temkin [http://danieltemkin.com]
- * @author Thomas Leplus [https://www.leplus.org]
- * @copyright Crown Copyright 2021
  * @license Apache-2.0
  */
 
@@ -158,19 +141,8 @@
  */
 
 /**
- * @author MikeCAT
- * @license Apache-2.0
- */
-
-/**
  * @author PenguinGeorge [george@penguingeorge.com]
  * @copyright Crown Copyright 2018
- * @license Apache-2.0
- */
-
-/**
- * @author Thomas Weißschuh [thomas@t-8ch.de]
- * @copyright Crown Copyright 2021
  * @license Apache-2.0
  */
 
@@ -197,12 +169,6 @@
  * @author arnydo [arnydo@protonmail.com]
  * @author n1474335 [n1474335@gmail.com]
  * @copyright Crown Copyright 2018
- * @license Apache-2.0
- */
-
-/**
- * @author arnydo [github@arnydo.com]
- * @copyright Crown Copyright 2019
  * @license Apache-2.0
  */
 
@@ -253,12 +219,6 @@
  */
 
 /**
- * @author gchq77703 [gchq77703@gchq.gov.uk]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
-/**
  * @author h345983745
  * @copyright Crown Copyright 2019
  * @license Apache-2.0
@@ -296,18 +256,6 @@
  */
 
 /**
- * @author mikecat
- * @copyright Crown Copyright 2022
- * @license Apache-2.0
- */
-
-/**
- * @author mikecat
- * @copyright Crown Copyright 2023
- * @license Apache-2.0
- */
-
-/**
  * @author n1073645 [n1073645@gmail.com]
  * @author n1474335 [n1474335@gmail.com]
  * @copyright Crown Copyright 2020
@@ -316,19 +264,7 @@
 
 /**
  * @author n1073645 [n1073645@gmail.com]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
-/**
- * @author n1073645 [n1073645@gmail.com]
  * @copyright Crown Copyright 2020
- * @license Apache-2.0
- */
-
-/**
- * @author n1073645 [n1073645@gmail.com]
- * @copyright Crown Copyright 2022
  * @license Apache-2.0
  */
 
@@ -342,13 +278,6 @@
 /**
  * @author n1474335 [n1474335@gmail.com]
  * @author Matt C [matt@artemisbot.uk]
- * @copyright Crown Copyright 2016
- * @license Apache-2.0
- */
-
-/**
- * @author n1474335 [n1474335@gmail.com]
- * @author cplussharp
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
  */
@@ -378,50 +307,14 @@
  */
 
 /**
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2022
- * @license Apache-2.0
- */
-
-/**
  * @author sevzero [sevzero@protonmail.com]
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  */
 
 /**
- * @author sg5506844 [sg5506844@gmail.com]
- * @copyright Crown Copyright 2021
- * @license Apache-2.0
- */
-
-/**
- * @author sw5678
- * @copyright Crown Copyright 2023
- * @license Apache-2.0
- */
-
-/**
- * @author sw5678
- * @copyright Crown Copyright 2024
- * @license Apache-2.0
- */
-
-/**
  * @author tcode2k16 [tcode2k16@gmail.com]
  * @copyright Crown Copyright 2018
- * @license Apache-2.0
- */
-
-/**
- * @author tcode2k16 [tcode2k16@gmail.com]
- * @copyright Crown Copyright 2019
- * @license Apache-2.0
- */
-
-/**
- * @author tedk [tedk@ted.do]
- * @copyright Crown Copyright 2024
  * @license Apache-2.0
  */
 
@@ -442,20 +335,6 @@
 /**
  * @author tlwr [toby@toby.codes]
  * @copyright Crown Copyright 2017
- * @license Apache-2.0
- */
-
-/**
- * @author tomgond [tom.gonda@gmail.com]
- * @copyright Crown Copyright 2024
- * @license Apache-2.0
- */
-
-/**
- * Base45 resources.
- *
- * @author Thomas Weißschuh [thomas@t-8ch.de]
- * @copyright Crown Copyright 2021
  * @license Apache-2.0
  */
 
@@ -481,14 +360,6 @@
  *
  * @author PenguinGeorge [george@penguingeorge.com]
  * @copyright Crown Copyright 2018
- * @license Apache-2.0
- */
-
-/**
- * Base92 resources.
- *
- * @author sg5506844 [sg5506844@gmail.com]
- * @copyright Crown Copyright 2021
  * @license Apache-2.0
  */
 
@@ -555,10 +426,10 @@
 /**
  * CyberChef - The Cyber Swiss Army Knife
  *
- * @copyright Crown Copyright 2016-2024
+ * @copyright Crown Copyright 2016
  * @license Apache-2.0
  *
- *   Copyright 2016-2024 Crown Copyright
+ *   Copyright 2016 Crown Copyright
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -655,14 +526,6 @@
  */
 
 /**
- * Protocol parsing functions.
- *
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2022
- * @license Apache-2.0
- */
-
-/**
  * Some parts taken from mimelib (http://github.com/andris9/mimelib)
  * @author Andris Reinman
  * @license MIT
@@ -670,15 +533,6 @@
  * @author n1474335 [n1474335@gmail.com]
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
- */
-
-/**
- * Sorting functions
- *
- * @author n1474335 [n1474335@gmail.com]
- * @copyright Crown Copyright 2022
- * @license Apache-2.0
- *
  */
 
 /**
@@ -701,7 +555,7 @@
 * THIS FILE IS AUTOMATICALLY GENERATED BY src/core/config/scripts/generateConfig.mjs
 *
 * @author n1474335 [n1474335@gmail.com]
-* @copyright Crown Copyright 2024
+* @copyright Crown Copyright 2021
 * @license Apache-2.0
 */
 
@@ -736,4 +590,4 @@
 
 //! moment.js locale configuration
 
-//! version : 0.5.45
+//! version : 0.5.33
